@@ -22,3 +22,5 @@ yarn build
 ```
 7. Static website of your chart is in `dist` folder
 8. You can run `yarn serve` to serve the build
+
+> NOTE: This is pure shitcode made up during 1 night
